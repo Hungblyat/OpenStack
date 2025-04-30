@@ -25,3 +25,6 @@ OpenStack được xây dựng từ nhiều dự án con, mỗi dự án đảm 
 7. Horizon (Dashboard)
    * Giao diện web để quản lý tài nguyên OpenStack một cách trực quan.
    * Dành cho quản trị viên và người dùng.
+
+## Cài đặt
+ss
