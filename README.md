@@ -1,4 +1,5 @@
 # OpenStack
+<img src="https://github.com/user-attachments/assets/47a04ec4-4526-435e-8cec-66b7c3df1984" alt="Description" width="500"/>
 
 ## Giới thiệu 
 OpenStack là một nền tảng phần mềm mã nguồn mở được sử dụng để xây dựng và quản lý các môi trường điện toán đám mây (cloud computing). Nó cung cấp một bộ công cụ cho phép các tổ chức triển khai các dịch vụ như hạ tầng dưới dạng dịch vụ (IaaS - Infrastructure as a Service), nơi người dùng có thể tạo, quản lý và sử dụng tài nguyên như máy ảo, lưu trữ, và mạng thông qua giao diện web hoặc API.
